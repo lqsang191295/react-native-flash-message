@@ -609,6 +609,7 @@ export default class FlashMessage extends Component {
   }
 
   onSwipeUp = () => {
+	console.log("123123123");
     this.hideMessage();
   };
 
