@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-native-iphone-x-helper": "^1.2.1"
+    "react-native-iphone-x-helper": "^1.2.1",
+    "react-native-swipe-gestures": "^1.0.4"
   },
   "devDependencies": {
     "prettier": "^1.18.2",
