@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flash-message",
+  "name": "react-native-flash-message-custom-swipe",
   "version": "0.1.15",
   "description": "React Native flashbar and top notification alert utility",
   "main": "src/index.js",
